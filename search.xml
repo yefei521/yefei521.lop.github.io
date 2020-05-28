@@ -4,13 +4,32 @@
   
     
     <entry>
+      <title>test theme</title>
+      <link href="/2020/05/28/test-theme/"/>
+      <url>/2020/05/28/test-theme/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>01 Beh et al._2019_6mA in Oxytricha</title>
       <link href="/2020/05/27/01-Beh-et-al-2019-6mA-in-Oxytricha/"/>
       <url>/2020/05/27/01-Beh-et-al-2019-6mA-in-Oxytricha/</url>
       
-        <content type="html"><![CDATA[<ul><li>Abstract<ul><li>1、DNA 6mA甲基化酶MAT1c (物种？)包含MTA 1/9+p1/2</li><li>2、MTA1催化亚基缺失会导师全基因组6mA和ApT motif的缺失</li><li>3、体外6mA在局部、定量的方式直接排斥核小体，并不依赖DNA序列（？），且染色质重塑因子ACF可以克服这种影响</li></ul></li><li>Introduction<ul><li>爪蟾（9X10^-7）、小鼠胚胎干细胞（6X10^-6<del>7X10^5）、果蝇（1X10^-5</del>7X10^-4）、线虫（1X10^-4<del>4X10^-3）、拟南芥（6X10^-5</del>1.38X10^-3）、绿藻（3X10^-3~5X10^-3）等</li><li>Oxytricha小核转录沉默，大核转录活跃，大核高度片段化，包含约16000 unique chromosome，平均长为3.2kb，大多编码一个基因</li></ul></li><li>Result<ul><li><em>Oxytricha</em>染色质和转录的表观基因组图谱<ul><li>1、6mA在TSS下游的+1，+2，+3核小体之间的linker DNA上，在+1~+2之间的6mA密度最高；</li><li>2、总体上，高转录水平的染色体含有更多的6mA，表明6mA在基因调控中是一个积极的作用；</li><li>3、主要的甲基化搜集中在ApT motif（95.6%）</li></ul></li><li>纤毛虫6mA甲基化酶MTA1c的提纯和重组<ul><li>分离出四膜虫体内具有甲基化酶活性的蛋白，质谱检测到有四个蛋白MTA1/9，p1/2，系统学分析（得出啥?），实验发现这4个蛋白对甲基化酶活性是缺一不可的，故定义为MTA1c复合物</li></ul></li><li>MTA1c会优先甲基化ApT 双核苷酸<ul><li>1、体外，MTA1c只甲基化dsDNA</li><li>2、预先存在的半甲基化6mA会刺激MTA1c，促进其对另一条链的甲基化</li><li>3、MTA1c的活性不仅受双核苷酸序列本身的影响，还受侧链序列的调控</li></ul></li><li>MTA1c对体内的6mA甲基化是必需的<ul><li>突变株系中大部分的6mA发生了显著下降，ApT基序完全消失，所有其他甲基化的二核苷酸基序出现频率降低</li><li>敲除株系中侧翼6mA变化较大的核小体具有更大的fuzziness</li></ul></li><li>在体外（体内并不），6mA不利于基因组上核小体的occupancy<ul><li>阴性对照：no-6mA minigenome，物种：<em>Xenopus<em>和</em>Oxytricha</em></li><li>1、在native genome 和mini genome两组都能观察到6mA减低核小体occupancy的效应</li><li>2、？？</li></ul></li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<ul><li>Abstract<ul><li>1、DNA 6mA甲基化酶MAT1c (物种？)包含MTA 1/9+p1/2</li><li>2、MTA1催化亚基缺失会导师全基因组6mA和ApT motif的缺失</li><li>3、体外6mA在局部、定量的方式直接排斥核小体，并不依赖DNA序列（？），且染色质重塑因子ACF可以克服这种影响</li></ul></li><li><a id="more"></a></li><li>Introduction<ul><li>爪蟾（9X10^-7）、小鼠胚胎干细胞（6X10^-6<del>7X10^5）、果蝇（1X10^-5</del>7X10^-4）、线虫（1X10^-4<del>4X10^-3）、拟南芥（6X10^-5</del>1.38X10^-3）、绿藻（3X10^-3~5X10^-3）等</li><li>Oxytricha小核转录沉默，大核转录活跃，大核高度片段化，包含约16000 unique chromosome，平均长为3.2kb，大多编码一个基因</li></ul></li><li>Result<ul><li><em>Oxytricha</em>染色质和转录的表观基因组图谱<ul><li>1、6mA在TSS下游的+1，+2，+3核小体之间的linker DNA上，在+1~+2之间的6mA密度最高；</li><li>2、总体上，高转录水平的染色体含有更多的6mA，表明6mA在基因调控中是一个积极的作用；</li><li>3、主要的甲基化搜集中在ApT motif（95.6%）</li></ul></li><li>纤毛虫6mA甲基化酶MTA1c的提纯和重组<ul><li>分离出四膜虫体内具有甲基化酶活性的蛋白，质谱检测到有四个蛋白MTA1/9，p1/2，系统学分析（得出啥?），实验发现这4个蛋白对甲基化酶活性是缺一不可的，故定义为MTA1c复合物</li></ul></li><li>MTA1c会优先甲基化ApT 双核苷酸<ul><li>1、体外，MTA1c只甲基化dsDNA</li><li>2、预先存在的半甲基化6mA会刺激MTA1c，促进其对另一条链的甲基化</li><li>3、MTA1c的活性不仅受双核苷酸序列本身的影响，还受侧链序列的调控</li></ul></li><li>MTA1c对体内的6mA甲基化是必需的<ul><li>突变株系中大部分的6mA发生了显著下降，ApT基序完全消失，所有其他甲基化的二核苷酸基序出现频率降低</li><li>敲除株系中侧翼6mA变化较大的核小体具有更大的fuzziness</li></ul></li><li>在体外（体内并不），6mA不利于基因组上核小体的occupancy<ul><li>阴性对照：no-6mA minigenome，物种：<em>Xenopus<em>和</em>Oxytricha</em></li><li>1、在native genome 和mini genome两组都能观察到6mA减低核小体occupancy的效应</li><li>2、</li></ul></li></ul></li></ul>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 6mA epigenetic </tag>
+            
+        </tags>
       
     </entry>
     
