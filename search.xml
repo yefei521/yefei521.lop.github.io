@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>基于Github和Hexo搭建博客</title>
+      <link href="/2020/05/28/20200528/"/>
+      <url>/2020/05/28/20200528/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>#搭建博客的方法</p></li><li><a id="more"></a></li><li><p>进入D:/Blog/yefeiblog</p></li><li><p>右键git bash</p></li><li><p>连接github账号</p><ul><li>git config –global <span class="exturl"><a class="exturl__link"   href="http://user.name"  target="_blank" rel="noopener">user.name</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> “yefei521”</li><li>git config –global user.email “<span class="exturl"><a class="exturl__link"   href="mailto:1695618581@qq.com" >1695618581@qq.com</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>“</li></ul></li><li><p>新建文章：hexo new post “article title”</p><ul><li>在yefeiblog/下有文件 .md，一个存放图片等数据，一个就是文章，在这个文件里编辑文章（markdown语法）</li></ul></li><li><p>hexo g (生成静态网页)</p></li><li><p>hexo s (本地预览效果)</p></li><li><p>hexo d (上传到github)，成功后可以进入<span class="exturl"><a class="exturl__link"   href="https://yefei521.github.io/"  target="_blank" rel="noopener">https://yefei521.github.io/</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> 查看</p></li><li></li><li><p>写博客</p><ul><li><p><img src="https://img.mubu.com/document_image/f4c635b8-d511-427b-a272-986a8dddfcdf-3883998.jpg" alt="img"></p></li><li><p>让博文列表不显示全部内容可以在随意的位置添加一行 <!--more--></p></li><li><p><img src="https://img.mubu.com/document_image/e1f1433f-39b8-4791-b432-00b131814083-3883998.jpg" alt="img"></p></li><li><p><img src="https://img.mubu.com/document_image/dee15af6-36df-485c-a23d-3fea07060ecf-3883998.jpg" alt="img"></p></li><li></li></ul></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test theme</title>
       <link href="/2020/05/28/test-theme/"/>
       <url>/2020/05/28/test-theme/</url>
