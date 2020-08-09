@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Japheth Ye</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>Life comes down to a simple choice:get busy living or get busy dying</subtitle>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-05-28T14:18:21.885Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Fei Ye</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Github和Hexo搭建博客</title>
+    <link href="http://yoursite.com/2020/05/28/20200528/"/>
+    <id>http://yoursite.com/2020/05/28/20200528/</id>
+    <published>2020-05-28T14:16:55.000Z</published>
+    <updated>2020-05-28T14:18:21.885Z</updated>
+    
+    
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;#搭建博客的方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>01 Beh et al._2019_6mA in Oxytricha</title>
+    <link href="http://yoursite.com/2020/05/27/01-Beh-et-al-2019-6mA-in-Oxytricha/"/>
+    <id>http://yoursite.com/2020/05/27/01-Beh-et-al-2019-6mA-in-Oxytricha/</id>
+    <published>2020-05-27T15:38:09.000Z</published>
+    <updated>2020-05-28T06:26:59.765Z</updated>
+    
+    
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;Abstract&lt;ul&gt;
+&lt;li&gt;1、DNA 6mA甲基化酶MAT1c (物种？)包含MTA 1/9+p1/2&lt;/li&gt;
+&lt;li&gt;2、MTA1催化亚基缺失会导师全基因组6mA和ApT motif的缺失&lt;/li&gt;
+&lt;li&gt;3、体外6mA在局部、定量的方式直接排斥核小体，并不依赖DNA序列（？），且染色质重塑因子ACF可以克服这种影响&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;</summary>
+    
+    
+    
+    
+    <category term="6mA epigenetic" scheme="http://yoursite.com/tags/6mA-epigenetic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello Friend</title>
+    <link href="http://yoursite.com/2020/05/27/hello-world/"/>
+    <id>http://yoursite.com/2020/05/27/hello-world/</id>
+    <published>2020-05-27T14:24:27.809Z</published>
+    <updated>2020-05-27T14:43:35.326Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot;  target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
